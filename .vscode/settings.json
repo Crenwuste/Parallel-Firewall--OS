@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "packet.h": "c",
+        "utils.h": "c",
+        "consumer.h": "c"
+    }
+}
